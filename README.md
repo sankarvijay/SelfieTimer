@@ -77,6 +77,9 @@ git clone https://github.com/sankarvijay/SelfieTimer.git
 
 Et voila ! le projet est prêt pour utilisation.
 
+#### Design de l'application
+
+<a rel='nofollow' href='' border='0' style='cursor:default'><img src='http://vijay-sankar.com/ecran.jpeg' alt=''></a>
 
 ## Auteurs
 * **SANKAR Vijay** - [Github](https://github.com/sankarvijay)
