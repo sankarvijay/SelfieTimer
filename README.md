@@ -1,6 +1,4 @@
-# SelfieTimer 
-
-<a rel='nofollow' href='' border='0' style='cursor:default'><img src='https://media.istockphoto.com/vectors/hand-hold-phone-logotype-mobile-case-logo-mobile-camera-photography-vector-id1057455026?k=6&m=1057455026&s=170667a&w=0&h=65ztwGx7hbcSEWibUi0HrBVdoxzwRT7k8rB1CVJoj3g=' alt=''></a>
+# SelfieTimer <a rel='nofollow' href='' border='0' style='cursor:default'><img src='https://media.istockphoto.com/vectors/hand-hold-phone-logotype-mobile-case-logo-mobile-camera-photography-vector-id1057455026?k=6&m=1057455026&s=170667a&w=0&h=65ztwGx7hbcSEWibUi0HrBVdoxzwRT7k8rB1CVJoj3g=' alt=''></a>
 
 **SelfieTimer**, l'application qui prend un selfie sans clic.
 
