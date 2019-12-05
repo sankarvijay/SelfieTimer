@@ -1,4 +1,6 @@
-# SelfieTimer <img src='https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjnv4PPw5_mAhXN5-AKHcnjAjwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fvectoriel%2Fmain-tenir-logo-t%25C3%25A9l%25C3%25A9phone-logo-mobile-de-laffaire-photographie-de-la-cam%25C3%25A9ra-gm1057455026-282594167&psig=AOvVaw0ip5IDdZb0YRU_RL-kAT6Q&ust=1575670352296118' alt=''>
+# SelfieTimer <a rel='nofollow' href='https://www.qrcode-generator.de/' border='0' style='cursor:default'><img src='https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjnv4PPw5_mAhXN5-AKHcnjAjwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fvectoriel%2Fmain-tenir-logo-t%25C3%25A9l%25C3%25A9phone-logo-mobile-de-laffaire-photographie-de-la-cam%25C3%25A9ra-gm1057455026-282594167&psig=AOvVaw0ip5IDdZb0YRU_RL-kAT6Q&ust=1575670352296118' alt=''></a>
+            
+            
 
 **SelfieTimer**, l'application qui prend un selfie sans clic.
 
