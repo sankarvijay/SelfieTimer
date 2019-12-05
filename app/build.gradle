@@ -5,7 +5,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "com.dozingcatsoftware.cameratimer"
+        applicationId "com.nuitInfo2019.cameratimer"
         minSdkVersion 8
         targetSdkVersion 26
     }
