@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SelfieTimer</string>
+
+	<string name="delayButtonLabelSecondsFormat">Delai : %d Sec</string>
+	<string name="delayButtonLabelNone">Delai : Aucun</string>
+	<string name="defaultDelayButtonLabel">Delai : 5 Sec</string>
+	
+	<string name="flashButtonDefaultLabel">Flash</string>
+	<string name="flashButtonOnLabel">Flash: On</string>
+	<string name="flashButtonOffLabel">Flash: Off</string>
+	<string name="flashButtonAutoLabel">Flash: Auto</string>
+	
+	<string name="timerCountdownMessageFormat">Photo prise dans %d secondes</string>
+	<string name="savedPictureMessage">Sauvegarder</string>
+			
+	<string name="noImagesFound">Vous navez pas pris de photos.</string>
+</resources>

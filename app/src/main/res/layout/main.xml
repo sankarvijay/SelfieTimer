@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   	android:layout_width="fill_parent"
+   	android:layout_height="fill_parent">
+
+	<SurfaceView android:id="@+id/cameraView" 
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" />
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical">
+
+		<FrameLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1">
+
+			<TextView
+				android:id="@+id/statusText"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:gravity="top|center" />
+
+		</FrameLayout>
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:gravity="bottom|center"
+			android:orientation="horizontal">
+
+			<LinearLayout
+				android:id="@+id/miscButtonBar"
+				android:layout_width="135dp"
+				android:layout_height="fill_parent"
+				android:layout_weight="1"
+				android:gravity="left|bottom"
+				android:orientation="horizontal">
+
+				<Button
+					android:id="@+id/libraryButton"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Galerie" />
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:id="@+id/optionsButtonBar"
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				android:layout_weight="1"
+				android:gravity="right|bottom"
+				android:orientation="horizontal">
+
+				<Button
+					android:id="@+id/pictureDelayButton"
+					android:layout_width="110dp"
+					android:layout_height="wrap_content"
+					android:text="@string/defaultDelayButtonLabel" />
+
+				<Button
+					android:id="@+id/flashButton"
+					android:layout_width="86dp"
+					android:layout_height="60dp"
+					android:layout_marginRight="150dp"
+					android:text="@string/flashButtonDefaultLabel" />
+
+				<Button
+					android:id="@+id/switchCameraButton"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Switch" />
+
+				<com.nuitInfo2019.util.ShutterButton
+					android:id="@+id/shutterButton"
+					android:layout_width="wrap_content"
+					android:layout_height="386dp"
+					android:background="#00000000"
+					android:clickable="true"
+					android:src="@drawable/btn_camera_shutter_holo" />
+
+			</LinearLayout>
+
+			<Button
+				android:id="@+id/cancelPictureButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:visibility="gone" />
+
+		</LinearLayout>
+
+	</LinearLayout>
+				                  	
+</FrameLayout>
